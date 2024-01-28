@@ -1,2 +1,6 @@
 # Tailor
-Scripts for 3dmigoto mod.
+Deprecated Scripts for make 3dmigoto mod.
+
+# Usage Notice
+Educational purpose only.
+
